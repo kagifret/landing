@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "docs/Topic 2/Note 3.md",
+            "file": "README.md",
             "mode": "source"
           }
         }
@@ -68,7 +68,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "docs/Topic 2/Note 3.md",
+                "file": "README.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -88,6 +88,7 @@
   },
   "active": "941318aa6cccb4ff",
   "lastOpenFiles": [
+    "README.md",
     "docs/Topic 2/Note 3.md",
     "docs/index.md",
     "docs/Topic 2/Note 4.md",
