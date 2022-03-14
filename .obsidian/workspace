@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "README.md",
+            "file": "docs/index.md",
             "mode": "source"
           }
         }
@@ -68,7 +68,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "README.md",
+                "file": "docs/index.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -88,13 +88,12 @@
   },
   "active": "941318aa6cccb4ff",
   "lastOpenFiles": [
+    "docs/index.md",
     "README.md",
     "docs/Topic 2/Note 3.md",
-    "docs/index.md",
     "docs/Topic 2/Note 4.md",
     "docs/Topic 1/Note 1.md",
     "docs/Topic 1/Note 2.md",
-    "README.md",
     "2021-11-22-22-54-02.png",
     "2021-11-22-22-52-49.png",
     "2021-11-22-22-49-26.png"
